@@ -10,7 +10,7 @@ A highly detailed, fully **static landing page** showcasing a premium audio bran
 
 ## Live Preview
 
-[ **https://mihakurochkin.github.io/premium-audio-homepage/** ]
+**https://mykhailokurochkin.github.io/premium-audio-homepage/**
 
 ---
 
